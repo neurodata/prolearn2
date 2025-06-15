@@ -1,0 +1,21 @@
+name: prolearn2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - ipykernel
+  - tqdm
+  - seaborn
+  - pip
+  - pip:
+      - torch
+      - torchvision
+      - torchaudio
+      - notebook
