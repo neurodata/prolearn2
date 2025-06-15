@@ -21,6 +21,8 @@ Fig 3: `2_effect_of_time_embeddings.ipynb`
 
 Fig 4: `3-online_prospective_learning.ipynb`
 
+Fig 5: `4-prospective_forests.ipynb`
+
 Fig 7: `7-plot_foraging_results.ipynb`
 
 Try the foraging game by running ```play_foraging.py```
