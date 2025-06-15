@@ -169,8 +169,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-
-notebooks/data
-mdp_exps/logs
-mdp_exps/models
-mdp_exps/metrics
