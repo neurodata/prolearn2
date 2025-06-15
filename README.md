@@ -23,7 +23,7 @@ Fig 4: `3-online_prospective_learning.ipynb`
 
 Fig 7: `7-plot_foraging_results.ipynb`
 
-Try the foraging game by running ```python play_foraging.py```
+Try the foraging game by running ```play_foraging.py```
 
 ## Cite us
 
