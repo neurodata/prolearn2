@@ -13,7 +13,7 @@ conda env create -f environment.yml
 
 ## Guide
 
-Run the following self-explanatory notebooks to reproduce the results and figures from the paper. 
+Run the following self-explanatory notebooks to reproduce the results and figures from the paper. For foraging experiments, the data can be found and downloaded [here](https://drive.google.com/drive/folders/1fT0CkWE2sdCR9EDXew9xB76BoqRuO0Gt?usp=drive_link).
 
 Fig 2: `1-effect_of_sparsity.ipynb`
 
