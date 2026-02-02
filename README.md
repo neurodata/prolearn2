@@ -3,6 +3,7 @@
 ## Overview
 
 This repository contains the code to reproduce the experiments from our AGI 2025 paper, Prospective Learning in Retrospect.
+https://arxiv.org/abs/2507.07965
 
 ## Dependencies
 
